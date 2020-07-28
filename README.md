@@ -28,11 +28,14 @@
 ## Project
 * create project
 * associate issue types to project by choosing issue types scheme
+* associate workflow to project by choosing workflow scheme
+
+
+### In project, screen + workflow connect to each other by issue type
 
 
 
-........................
-Create new project 
+
 
 
 
